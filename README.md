@@ -14,8 +14,8 @@
 
 I'm a '90s kid born and raised in The Netherlands 🇳🇱. With a diverse background in **hospitality management, real-estate, and design**, I bring a unique, aesthetic-driven perspective to development. I've chosen to dive deep into writing (no-)code and building web applications.
 
-- 🎯 **Current Focus:** Web development, CMS systems, and AI-assisted "vibe coding"
-- 🌱 **Learning:** React & Angular
+- 🎯 **Current Focus:** Optimizing E-Commerce, Wepabbs, Web-based Games
+- 🌱 **Learning:** Python
 - 💞️ **Open to:** Collaborating on creative web design projects
 - ⚡ **Fun Fact:** I'm fueled by hyperfocus, good coffee, and great design!
 
